@@ -55,7 +55,6 @@
         <price>49990</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
-        <!-- ДОБАВЛЕНА ССЫЛКА НА UGOL.JPG -->
         <picture>https://raw.githubusercontent.com/puzinacatia-star/my-feed/main/ugol.jpg</picture>
 
         <param name="Тип обучения">Онлайн</param>
